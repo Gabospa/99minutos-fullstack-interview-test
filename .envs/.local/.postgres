@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=gitview
+POSTGRES_USER=rXxygZdSIAwfYnHzXapIeJGxcBczvLgy
+POSTGRES_PASSWORD=mCaxU6GZhcNpPeOg0t8qXBfy9RwdOe2iFDVefVHPBhyRJ08AeHEG5oCOLOy5PJ2n
